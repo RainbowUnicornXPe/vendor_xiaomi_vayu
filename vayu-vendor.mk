@@ -1251,7 +1251,6 @@ PRODUCT_PACKAGES += \
     WfdService \
     ims \
     qcrilmsgtunnel \
-    WfdCommon \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
     android.hardware.neuralnetworks@1.3-service-qti \
     manifest_android.hardware.drm@1.3-service.widevine \
